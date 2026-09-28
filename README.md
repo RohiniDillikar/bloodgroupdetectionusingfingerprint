@@ -1,3 +1,16 @@
+## 🚀 Live Demo
+
+🌐 **[Try the Live Application](https://bloodgroupdetectionusingfingerprint-sigma.vercel.app/)**
+
+The application uses a trained ResNet9 deep learning model to predict blood group from fingerprint images.
+
+### Deployment
+
+- **Frontend:** Vercel
+- **Backend:** Render
+- **Live Application:** https://bloodgroupdetectionusingfingerprint-sigma.vercel.app/
+- **API:** https://bloodgroupdetectionusingfingerprint.onrender.com/
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
